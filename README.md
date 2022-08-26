@@ -1,6 +1,6 @@
 # Hi there 👋
 ### My name is Seema Devi, one professional Creative Designer.
-### I have my team to code the frontend and all design to deploy it publically.
+### Teamleader of coding team to make the frontend and all design to deploy it publically.
 ### I can design some awesome stunning Graphical Design 
 - 🔭 I’m currently working on Creative Design...
 - 🌱 I’m currently learning Frontend
